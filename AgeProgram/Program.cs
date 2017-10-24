@@ -25,7 +25,7 @@ namespace AgeProgram
             }
             else
             {
-                Console.Write("yeah boiii");
+                Console.WriteLine("yeah boiii");
 
 
 
