@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeProgram", "AgeProgram\Ag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessMyNumber", "GuessMyNumber\GuessMyNumber.csproj", "{F445F216-0E47-4AC3-B154-36CE50BC146E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalc", "AreaCalc\AreaCalc.csproj", "{A1F8EB1E-B397-40D8-BE81-8EC736E87250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F445F216-0E47-4AC3-B154-36CE50BC146E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F445F216-0E47-4AC3-B154-36CE50BC146E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F445F216-0E47-4AC3-B154-36CE50BC146E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F8EB1E-B397-40D8-BE81-8EC736E87250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F8EB1E-B397-40D8-BE81-8EC736E87250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F8EB1E-B397-40D8-BE81-8EC736E87250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F8EB1E-B397-40D8-BE81-8EC736E87250}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
